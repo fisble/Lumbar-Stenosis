@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>DatasetV0.28_Control</folder>
+  <filename>IM000010.png</filename>
+  <path>Foramina_Detection\0282\IM000010.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>576</width>
+    <height>576</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>RFS0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>267</xmin>
+      <ymin>158</ymin>
+      <xmax>310</xmax>
+      <ymax>225</ymax>
+    </bndbox>
+    <level>L3-L4</level>
+  </object>
+</annotation>

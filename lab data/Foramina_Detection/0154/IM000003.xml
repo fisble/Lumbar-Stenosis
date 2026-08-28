@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>DatasetV0.28_ControlV4_from_initial_to_067,5-PATIENT669757-IM000003_control1</folder>
+  <filename>IM000003.png</filename>
+  <path>Foramina_Detection\0154\IM000003.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>576</width>
+    <height>576</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>LFS3</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>254</xmin>
+      <ymin>271</ymin>
+      <xmax>297</xmax>
+      <ymax>327</ymax>
+    </bndbox>
+    <level>L3-L4</level>
+  </object>
+  <object>
+    <name>LFS1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>256</xmin>
+      <ymin>203</ymin>
+      <xmax>300</xmax>
+      <ymax>268</ymax>
+    </bndbox>
+    <level>L2-L3</level>
+  </object>
+</annotation>

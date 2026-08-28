@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>Sagittal</folder>
+  <filename>IM000004.jpg</filename>
+  <path>C:\Users\nisan\Desktop\DV0.13.3\PATIENT1071562\Sagittal\IM000004.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>576</width>
+    <height>576</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>LFS0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>322</xmin>
+      <ymin>127</ymin>
+      <xmax>362</xmax>
+      <ymax>192</ymax>
+    </bndbox>
+    <level>L1-L2</level>
+  </object>
+</annotation>

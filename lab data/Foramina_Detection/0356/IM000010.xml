@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>Sagittal</folder>
+  <filename>IM000010.jpg</filename>
+  <path>C:\Users\nisan\Desktop\DV0.13.3\PATIENT681394\Sagittal\IM000010.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>576</width>
+    <height>576</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>RFS0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>295</xmin>
+      <ymin>133</ymin>
+      <xmax>342</xmax>
+      <ymax>205</ymax>
+    </bndbox>
+    <level>L2-L3</level>
+  </object>
+  <object>
+    <name>RFS0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>305</xmin>
+      <ymin>70</ymin>
+      <xmax>358</xmax>
+      <ymax>131</ymax>
+    </bndbox>
+    <level>L1-L2</level>
+  </object>
+</annotation>

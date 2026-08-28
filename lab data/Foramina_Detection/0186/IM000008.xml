@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>Sagittal</folder>
+  <filename>IM000008.png</filename>
+  <path>Foramina_Detection\0186\IM000008.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>384</width>
+    <height>384</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>RFS0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>185</xmin>
+      <ymin>53</ymin>
+      <xmax>215</xmax>
+      <ymax>93</ymax>
+    </bndbox>
+    <level>L1-L2</level>
+  </object>
+  <object>
+    <name>RFS0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>185</xmin>
+      <ymin>93</ymin>
+      <xmax>214</xmax>
+      <ymax>134</ymax>
+    </bndbox>
+    <level>L2-L3</level>
+  </object>
+</annotation>
